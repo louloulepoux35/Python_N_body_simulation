@@ -2,7 +2,7 @@
 2D particles gravity simulation using the Barnes-Hut algorithm (quadtree, o(nln(n)) and Cython
 
 
-![](https://github.com/louloulepoux35/Python_N_body_simulation/edit/main/7824_Theta_0.25.gif)
+![](7824_Theta_0.25.gif)
 
 
 To use only Python comment computeFast and uncomment computeSlow in main.py as below:
