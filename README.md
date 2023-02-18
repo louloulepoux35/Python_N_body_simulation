@@ -5,6 +5,9 @@
 ![](7824_Theta_0.25.gif)
 
 
+To visualize the data optimization structure, in main.py, uncomment the line: node.drawQuadNode(draw)
+![](quadtree.25.gif)
+
 To use only Python comment computeFast and uncomment computeSlow in main.py as below:
 from computeSlow import simulator
 #from computeFast import simulator
